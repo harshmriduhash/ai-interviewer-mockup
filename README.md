@@ -29,7 +29,7 @@ Check The Project Activity: Click Here
 🔧 How to Run This Project
 Clone the Repository:
 
-git clone git@github.com:Vinaykumarmahato/AI-Mock-Interview-Platform.git
+git clone https://github.com/harshmriduhash/ai-interviewer-mockup
 Install Dependencies:
 
 npm install
