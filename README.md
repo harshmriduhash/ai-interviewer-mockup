@@ -3,18 +3,22 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 
 
 ##  🚀 Project Overview
+
 🤖 Project Name: AI Mock Interview
 🎓 Developers: Harsh Mriduhash
 🧠 Purpose: This project provides a personalized AI-driven mock interview experience that adapts to job descriptions and offers dynamic, real-time feedback to users.
 
 ##  🌟 Key Features
+
 🎯 Realistic Simulations – Provides an authentic interview experience tailored to specific job descriptions.
 📝 Diverse Question Bank – Generates role-specific questions dynamically.
 ⚡ Immediate Feedback – Get instant performance insights after each interview.
 📊 Performance Metrics – Detailed analytics to help you track and improve your interview skills.
 🛠 Customizable Interviews – Adapt the difficulty and question style according to your preferences.
 💼 Job Platform Integration – Input job descriptions, and the platform generates role-specific interview questions.
+
 ##  💻 Technology Stack
+
 🌐 Frontend ⚛️ React.js / Next.js – For handling user inputs like job descriptions and interview answers.
 📡 Backend 🌐 Node.js / Express.js – Processes requests and interacts with the AI models.
 🧠 AI/ML Tools and APIs
@@ -24,6 +28,7 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 🎥 Facial Expression & Video Analysis – Tracks facial expressions during interviews (OpenCV, Dlib, FaceAPI.js).
 💽 Database
 📊 MongoDB/MySQL – Stores user data, job descriptions, and interview questions.
+
 ##  🔧 How to Run This Project
 
 Clone the Repository:
