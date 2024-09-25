@@ -1,4 +1,4 @@
-🌟 AI Mock Interview Platform 🌟
+## 🌟 AI Mock Interview Platform 🌟
 Welcome to the AI Mock Interview platform repository! This project aims to revolutionize interview preparation by simulating real-world interview experiences using advanced AI technologies.
 
 
@@ -6,6 +6,7 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 🤖 Project Name: AI Mock Interview
 🎓 Developers: Harsh Mriduhash
 🧠 Purpose: This project provides a personalized AI-driven mock interview experience that adapts to job descriptions and offers dynamic, real-time feedback to users.
+
 🌟 Key Features
 🎯 Realistic Simulations – Provides an authentic interview experience tailored to specific job descriptions.
 📝 Diverse Question Bank – Generates role-specific questions dynamically.
@@ -14,10 +15,8 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 🛠 Customizable Interviews – Adapt the difficulty and question style according to your preferences.
 💼 Job Platform Integration – Input job descriptions, and the platform generates role-specific interview questions.
 💻 Technology Stack
-🌐 Frontend
-⚛️ React.js / Next.js – For handling user inputs like job descriptions and interview answers.
-📡 Backend
-🌐 Node.js / Express.js – Processes requests and interacts with the AI models.
+🌐 Frontend ⚛️ React.js / Next.js – For handling user inputs like job descriptions and interview answers.
+📡 Backend 🌐 Node.js / Express.js – Processes requests and interacts with the AI models.
 🧠 AI/ML Tools and APIs
 📝 Natural Language Processing – Generates tailored interview questions (Gemini AI, Hugging Face Transformers).
 🎙 Speech Recognition – Converts spoken answers into text (Google Speech-to-Text API, AWS Transcribe).
