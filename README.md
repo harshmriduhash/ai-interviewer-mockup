@@ -1,7 +1,6 @@
 ## 🌟 AI Mock Interview Platform 🌟
 Welcome to the AI Mock Interview platform repository! This project aims to revolutionize interview preparation by simulating real-world interview experiences using advanced AI technologies.
 
-
 ##  🚀 Project Overview
 
 🤖 Project Name: AI Mock Interview
@@ -11,10 +10,16 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 ##  🌟 Key Features
 
 🎯 Realistic Simulations – Provides an authentic interview experience tailored to specific job descriptions.
+
 📝 Diverse Question Bank – Generates role-specific questions dynamically.
+
 ⚡ Immediate Feedback – Get instant performance insights after each interview.
+
 📊 Performance Metrics – Detailed analytics to help you track and improve your interview skills.
+
+
 🛠 Customizable Interviews – Adapt the difficulty and question style according to your preferences.
+
 💼 Job Platform Integration – Input job descriptions, and the platform generates role-specific interview questions.
 
 ##  💻 Technology Stack
@@ -33,8 +38,8 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 
 Clone the Repository:
 git clone https://github.com/harshmriduhash/ai-interviewer-mockup
-Install Dependencies:
 
+Install Dependencies:
 npm install
 Set Up Environment Variables:
 
