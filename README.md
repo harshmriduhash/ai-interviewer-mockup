@@ -5,7 +5,7 @@ Check The Project Activity: Click Here
 
 🚀 Project Overview
 🤖 Project Name: AI Mock Interview
-🎓 Developers: Rohit Kumar and Vinay Kumar, IT Department Final Year Students, DSCET
+🎓 Developers: Harsh Mriduhash
 🧠 Purpose: This project provides a personalized AI-driven mock interview experience that adapts to job descriptions and offers dynamic, real-time feedback to users.
 🌟 Key Features
 🎯 Realistic Simulations – Provides an authentic interview experience tailored to specific job descriptions.
