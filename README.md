@@ -32,8 +32,7 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 🎙 Speech Recognition – Converts spoken answers into text (Google Speech-to-Text API, AWS Transcribe).
 🤖 Machine Learning Algorithms – Analyze user performance and adapt question difficulty (KNN, Decision Trees, Reinforcement Learning).
 🎥 Facial Expression & Video Analysis – Tracks facial expressions during interviews (OpenCV, Dlib, FaceAPI.js).
-💽 Database
-📊 MongoDB/MySQL – Stores user data, job descriptions, and interview questions.
+💽 Database📊 MongoDB/MySQL – Stores user data, job descriptions, and interview questions.
 
 ##  🔧 How to Run This Project
 
