@@ -4,7 +4,7 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 ##  🚀 Project Overview
 
 🤖 Project Name: AI Mock Interview
-🎓 Developers: Harsh Mriduhash
+🎓 Developers:- Harsh Mriduhash
 🧠 Purpose:- This project provides a personalized AI-driven mock interview experience that adapts to job descriptions and offers dynamic, real-time feedback to users.
 
 ##  🌟 Key Features:-
