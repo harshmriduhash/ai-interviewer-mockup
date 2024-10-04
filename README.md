@@ -13,7 +13,7 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 
 📝 Diverse Question Bank – Generates role-specific questions dynamically.
 
-⚡ Immediate Feedback – Get instant performance insights after each interview.
+⚡ Immediate Feedback– Get instant performance insights after each interview.
 
 📊 Performance Metrics:– Detailed analytics to help you track and improve your interview skills.
 
