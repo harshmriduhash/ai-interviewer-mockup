@@ -15,7 +15,7 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 
 ⚡ Immediate Feedback – Get instant performance insights after each interview.
 
-📊 Performance Metrics – Detailed analytics to help you track and improve your interview skills.
+📊 Performance Metrics– Detailed analytics to help you track and improve your interview skills.
 
 
 🛠 Customizable Interviews:– Adapt the difficulty and question style according to your preferences.
