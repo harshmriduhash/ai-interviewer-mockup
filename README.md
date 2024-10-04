@@ -7,7 +7,7 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 🎓 Developers: Harsh Mriduhash
 🧠 Purpose: This project provides a personalized AI-driven mock interview experience that adapts to job descriptions and offers dynamic, real-time feedback to users.
 
-##  🌟 Key Features
+##  🌟 Key Features:-
 
 🎯 Realistic Simulations – Provides an authentic interview experience tailored to specific job descriptions.
 
@@ -19,6 +19,7 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 
 
 🛠 Customizable Interviews – Adapt the difficulty and question style according to your preferences.
+
 
 💼 Job Platform Integration – Input job descriptions, and the platform generates role-specific interview questions.
 
