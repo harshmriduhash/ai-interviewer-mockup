@@ -21,7 +21,7 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 🛠 Customizable Interviews:– Adapt the difficulty and question style according to your preferences.
 
 
-💼 Job Platform Integration – Input job descriptions, and the platform generates role-specific interview questions.
+💼 Job Platform Integration– Input job descriptions, and the platform generates role-specific interview questions.
 
 ##  💻 Technology Stack
 
