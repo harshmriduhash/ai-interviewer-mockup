@@ -11,7 +11,7 @@ Welcome to the AI Mock Interview platform repository! This project aims to revol
 
 🎯 Realistic Simulations – Provides an authentic interview experience tailored to specific job descriptions.
 
-📝 Diverse Question Bank– Generates role-specific questions dynamically.
+📝 Diverse Question Bank:– Generates role-specific questions dynamically.
 
 ⚡ Immediate Feedback:– Get instant performance insights after each interview.
 
